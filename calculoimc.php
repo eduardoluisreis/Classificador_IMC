@@ -40,7 +40,7 @@
         <label for="imc">Digite um valor de IMC para ver sua classificação:<br></label>
         <input style="width: 220px;" type="text" name="imc" id="imc" required step="any" placeholder="Valor do IMC com 2 casas decimais"><br>
 
-        <button type="submit">Calcular</button>
+        <button type="submit">Classificar</button>
     </form>
 
     <?php
